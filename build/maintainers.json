@@ -427,6 +427,12 @@
     "mjysci",
     "TonyRL"
   ],
+  "/apnews/sitemap/:route": [
+    "zoenglinghou",
+    "mjysci",
+    "TonyRL",
+    "dzx-dzx"
+  ],
   "/apnews/topics/:topic?": [
     "zoenglinghou",
     "mjysci",
@@ -1093,7 +1099,7 @@
   "/cctv/lm/:id?": [
     "nczitzk"
   ],
-  "/cctv/xwlb": [
+  "/cctv/:site/:category/:name": [
     "zengxs"
   ],
   "/cde/:channel/:category": [
@@ -2052,6 +2058,9 @@
   "/fjksbm/:category?": [
     "nczitzk"
   ],
+  "/flashcat/blog": [
+    "chesha1"
+  ],
   "/flyert/creditcard/:bank": [
     "nicolaszf"
   ],
@@ -2222,6 +2231,9 @@
   ],
   "/gihyo/list/group/:id": [
     "masakichi"
+  ],
+  "/gisreportsonline/:path{.*}": [
+    "dzx-dzx"
   ],
   "/gitee/commits/:owner/:repo": [
     "TonyRL"
@@ -2435,6 +2447,9 @@
   ],
   "/gov/jinan/healthcommission/medical_exam_notice": [
     "tzjyxb"
+  ],
+  "/gov/lswz/:category{.+}?": [
+    "nczitzk"
   ],
   "/gov/maoming/*": [],
   "/gov/maonan/:category": [
@@ -2890,6 +2905,9 @@
     "nczitzk"
   ],
   "/hostmonit/cloudflareyesv6": [],
+  "/hottoys/": [
+    "jw0903"
+  ],
   "/hotukdeals/hottest": [
     "DIYgod"
   ],
@@ -3158,6 +3176,11 @@
   "/informs/:category?": [
     "Fatpandac"
   ],
+  "/infzm/hot": [
+    "KarasuShin",
+    "ranpox",
+    "xyqfer"
+  ],
   "/infzm/:id": [
     "KarasuShin",
     "ranpox",
@@ -3389,6 +3412,9 @@
   ],
   "/jlu/ccst/xwzx/:category": [
     "mayouxi"
+  ],
+  "/joins/chinese/:category?": [
+    "nczitzk"
   ],
   "/jornada/:date?/:category?": [
     "Thealf154"
@@ -4101,7 +4127,7 @@
   "/newsmarket/:category?": [
     "nczitzk"
   ],
-  "/newyorker/:category/:subCategory?": [
+  "/newyorker/:category": [
     "EthanWng97"
   ],
   "/newzmz/:id?/:downLinkType?": [
@@ -5028,6 +5054,9 @@
   ],
   "/readwise/list/:routeParams?": [
     "xbot"
+  ],
+  "/rebase/geekdaily": [
+    "gaoyifan"
   ],
   "/remnote/changelog": [
     "TonyRL",
@@ -6033,6 +6062,9 @@
   "/topys/:keyword?": [
     "nczitzk"
   ],
+  "/towardsdatascience/latest": [
+    "mintyfrankie"
+  ],
   "/tradingview/blog/:category{.+}?": [],
   "/tradingview/desktop": [
     "nczitzk"
@@ -6609,8 +6641,12 @@
   "/xiaohongshu/board/:board_id": [
     "lotosbin"
   ],
-  "/xiaohongshu/user/:user_id/notes/fulltext": [],
-  "/xiaohongshu/user/:user_id/:category": [],
+  "/xiaohongshu/user/:user_id/notes/fulltext": [
+    "howerhe"
+  ],
+  "/xiaohongshu/user/:user_id/:category": [
+    "lotosbin"
+  ],
   "/xiaomiyoupin/crowdfunding": [
     "bigfei"
   ],
@@ -6771,6 +6807,9 @@
   ],
   "/yicai/brief": [
     "sanmmm",
+    "nczitzk"
+  ],
+  "/yicai/carousel": [
     "nczitzk"
   ],
   "/yicai/dt/:column?/:category?": [
