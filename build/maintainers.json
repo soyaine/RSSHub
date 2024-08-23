@@ -2132,6 +2132,9 @@
     "HenryQW",
     "xyqfer"
   ],
+  "/ftm/": [
+    "dzx-dzx"
+  ],
   "/fuliba/latest": [
     "shinemoon"
   ],
@@ -2157,6 +2160,9 @@
   ],
   "/fzmtr/announcements": [
     "HankChow"
+  ],
+  "/galxe/quest/:alias": [
+    "cxheng315"
   ],
   "/gameapps/": [
     "TonyRL"
@@ -5490,6 +5496,9 @@
   "/smzdm/keyword/:keyword": [
     "DIYgod",
     "MeanZhang"
+  ],
+  "/smzdm/product/:id": [
+    "chesha1"
   ],
   "/smzdm/ranking/:rank_type/:rank_id/:hour": [
     "DIYgod"

@@ -6024,6 +6024,19 @@
       }
     ]
   },
+  "ftm.eu": {
+    "_name": "Follow The Money",
+    "www": [
+      {
+        "title": "文章",
+        "docs": "https://docs.rsshub.app/routes/new-media",
+        "source": [
+          "/"
+        ],
+        "target": "/ftm/"
+      }
+    ]
+  },
   "fuliba2023.net": {
     "_name": "福利吧",
     ".": [
@@ -6078,6 +6091,19 @@
           "/kx"
         ],
         "target": "/fx678/kx"
+      }
+    ]
+  },
+  "galxe.com": {
+    "_name": "Galxe",
+    "app": [
+      {
+        "title": "Galxe",
+        "docs": "https://docs.rsshub.app/routes/other",
+        "source": [
+          "/quest/:alias"
+        ],
+        "target": "/galxe/quest/:alias"
       }
     ]
   },
@@ -16146,6 +16172,16 @@
           "/fenlei/:name"
         ],
         "target": "/smzdm/haowen/fenlei/:name"
+      }
+    ],
+    "wiki": [
+      {
+        "title": "商品",
+        "docs": "https://docs.rsshub.app/routes/shopping",
+        "source": [
+          "/p/:id"
+        ],
+        "target": "/smzdm/product/:id"
       }
     ]
   },
